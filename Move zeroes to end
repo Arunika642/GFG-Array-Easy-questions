@@ -1,7 +1,7 @@
 class Solution 
   public:
     void pushZerosToEnd(vector<int>& arr) {
-        // code here
+
         int j=-1;
         for(int i=0; i<arr.size();i++)
         {
