@@ -1,3 +1,4 @@
+
 class Solution {
   public:
     // Function returns the second largest elements
